@@ -2,10 +2,6 @@
 =============
     Info
 =============
-Project name: project4_dsm0045_Morris
-Name: Danielle Morris
-ID: 904339996
-
 
 
 ==================
@@ -53,7 +49,7 @@ int main() {
     int questNum = 1; // question counter
     string questType; // stores the types of questions 
 
-    cout << "*** Welcome to Daniell's Testing Service ***\n";
+    cout << "*** Welcome to Danielle's Testing Service ***\n";
 
     while(true) {
         cout << "=== QUESTION " << questNum << " ===\n";
