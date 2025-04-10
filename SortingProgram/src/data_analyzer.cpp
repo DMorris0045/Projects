@@ -1,11 +1,5 @@
 /*
 
-----------------------------
-Name: Danielle Morris
-Id: 904339996
-Foldername: Project3_Morris_dsm0045
------------------------------
-
 ---------------
    COMPILE
 -------------
@@ -69,7 +63,6 @@ References:
         -how to set precision to 4 decimal places
         -how to implement merge sort into this project
         -how to simplify my check_file function
-        -due to time constraints most of process_vector, data_analyzer, and access_file were made with copilot
 */
 
 #include "access_file.h"
