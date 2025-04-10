@@ -6,7 +6,7 @@
 linux commands
 
 --Start the program--
-cd Project3_Morris_dsm0045
+cd SortingProgram
 make
 ./bin/main
 
