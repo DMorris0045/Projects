@@ -2,9 +2,7 @@
 =============
     Info
 =============
-Project name: project4_dsm0045_Morris
-Name: Danielle Morris
-ID: 904339996
+
 
 
 
