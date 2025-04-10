@@ -28,7 +28,7 @@ cppreference.com
 +++++++
 Phase 1
 +++++++
-cd project4_dsm0045_Morris
+cd C++_Quiz
 cd Phase1
 g++ -o quiz main.cpp list.cpp node.cpp questions.cpp
 ./quiz
